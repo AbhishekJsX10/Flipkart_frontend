@@ -62,7 +62,8 @@ npm run build
 
 ## Folder Structure
 
-```plaintext
+```plaintext```
+<pre>
 src
 ├── api
 │   └── api.js
@@ -108,7 +109,7 @@ src
 ├── firebase.config.jsx
 ├── index.css
 ├── index.js
-
+</pre>
 
 ## Documentation and Deployment
 
