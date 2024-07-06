@@ -62,7 +62,7 @@ npm run build
 
 ## Folder Structure
 
-```plaintext```
+```plaintext
 src
 ├── api
 │   └── api.js
