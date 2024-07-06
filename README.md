@@ -30,6 +30,9 @@ Flipkart is a versatile shopping app crafted to provide a smooth and enjoyable s
 - **Responsive UI:**
   A highly adaptive interface designed with Tailwind CSS, ensuring a smooth shopping experience on all devices.
 
+- **Search Functionality:**
+  Enhanced user convenience with an integrated search feature, allowing users to easily discover products of interest. Utilizes dynamic filtering and sorting based on product attributes.
+
 ## How to Run:
 
 ### **Clone the repository:**https://github.com/AbhishekJsX10/Flipkart_frontend
@@ -57,6 +60,56 @@ npm run dev
 npm run build
 ```
 
+## Folder Structure
+
+```plaintext```
+src
+├── api
+│   └── api.js
+├── assets
+├── components
+│   ├── categories
+│   │   ├── categories.css
+│   │   └── Categories.jsx
+│   ├── DealSlider
+│   │   └── DealSlider.jsx
+│   ├── footer
+│   │   ├── Footer.jsx
+│   │   └── FooterTop.jsx
+│   ├── header
+│   │   ├── Header.jsx
+│   │   └── headerExtra.txt
+│   ├── home
+│   │   ├── Banner.css
+│   │   ├── Banner.jsx
+│   │   └── Products.jsx
+│   ├── images
+│   ├── suggestions
+│   │   ├── Product.jsx
+│   │   ├── Suggestions.jsx
+│   │   ├── ProductPage.jsx
+│   │   ├── ProductPageExtra.txt
+│   │   └── ProductSlider.jsx
+├── constants
+├── context
+├── pages
+│   ├── AllProducts.jsx
+│   ├── Cart.jsx
+│   ├── CategoryProducts.jsx
+│   ├── Home.jsx
+│   ├── Registration.jsx
+│   └── Signin.jsx
+├── redux
+│   ├── amazonSlice.jsx
+│   ├── store.jsx
+│   └── utils
+│       └── utils.js
+├── App.jsx
+├── firebase.config.jsx
+├── index.css
+├── index.js
+
+
 ## Documentation and Deployment
 
 ### Development Process
@@ -69,7 +122,7 @@ Flipkart was created to offer a seamless shopping experience by utilizing cuttin
 
 3. **Feature Implementation:** Key functionalities, including authentication, cart management, product showcasing, category-based filtering, and order management, were implemented with a focus on enhancing user experience and functionality.
 
-4. **Testing and Debugging:** Thorough testing and debugging were conducted throughout the development phase to identify and resolve any issues. Cross-browser and device testing were performed to guarantee compatibility and responsiveness.
+4. **Testing and Debugging:** Thorough testing and debugging were conducted throughout the development phase to identify and resolve any issues. Cross-browser and device testing were performed to guarantee compatibility and responsiveness. Unit testing was employed for critical components and integration testing to ensure seamless interaction between modules.
 
 5. **Optimization and Performance:** Techniques for optimizing performance were implemented to enhance the app's speed and efficiency. This involved strategies such as code splitting, lazy loading, and image optimization to reduce loading times and elevate overall performance.
 
