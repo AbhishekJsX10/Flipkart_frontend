@@ -135,7 +135,7 @@ Flipkart was created to offer a seamless shopping experience by utilizing cuttin
 
 **Challenge:**  Ensuring secure user authentication and data privacy using Firebase.
 
-**Solution:**Leveraged Firebase Authentication to establish secure user authentication, prioritizing data protection and privacy. Implemented stringent security rules to control access to sensitive data and mitigate unauthorized actions.
+**Solution:** Leveraged Firebase Authentication to establish secure user authentication, prioritizing data protection and privacy. Implemented stringent security rules to control access to sensitive data and mitigate unauthorized actions.
 
 #### Cart Management
 
