@@ -169,7 +169,7 @@ Flipkart was created to offer a seamless shopping experience by utilizing cuttin
 
 ### Collaborators:
 
-- **Shekhar Suman**
+- **Jatin Kumar**
 
   - GitHub: [https://github.com/Jatinparjapt](https://github.com/Jatinparjapt)
   - Email:  jatin3961jk@gmail.com
